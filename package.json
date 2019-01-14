@@ -16,9 +16,15 @@
   },
   "homepage": "https://github.com/kodefox/tsconfig-kodefox#readme",
   "scripts": {
+    "commit": "git-cz",
     "semantic-release": "semantic-release"
   },
   "devDependencies": {
+    "commitizen": "^3.0.5",
+    "cz-conventional-changelog": "^2.1.0",
     "semantic-release": "^15.13.3"
+  },
+  "czConfig": {
+    "path": "node_modules/cz-conventional-changelog"
   }
 }
