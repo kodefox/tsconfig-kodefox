@@ -22,7 +22,8 @@ npm install --save-dev tsconfig-kodefox
 > {
 >   "extends": "tsconfig-kodefox",
 >   "compilerOptions": {
->     "jsx": "react"      // or "react-native" depends on your project
+>     "jsx": "react",      // or "react-native" depends on your project
+>     "typeRoots": ["node_modules/@types"]
 >   }
 > }
 > ```
