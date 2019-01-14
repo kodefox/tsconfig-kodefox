@@ -1,6 +1,6 @@
 {
   "name": "tsconfig-kodefox",
-  "version": "0.0.0-semantically-released",
+  "version": "1.0.1",
   "description": "A TSConfig for KodeFox JavaScript Config",
   "files": [
     "tsconfig.json"
