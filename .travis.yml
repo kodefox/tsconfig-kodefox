@@ -1,0 +1,5 @@
+sudo: false
+install: yarn
+script: yarn run semantic-release
+branches:
+  only: master
