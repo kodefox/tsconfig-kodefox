@@ -1,0 +1,18 @@
+{
+  "name": "tsconfig-kodefox",
+  "version": "1.0.0",
+  "description": "A TSConfig for KodeFox JavaScript Config",
+  "files": [
+    "tsconfig.json"
+  ],
+  "main": "tsconfig.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kodefox/tsconfig-kodefox.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kodefox/tsconfig-kodefox/issues"
+  },
+  "homepage": "https://github.com/kodefox/tsconfig-kodefox#readme"
+}
